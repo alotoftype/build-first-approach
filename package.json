@@ -13,6 +13,7 @@
     "grunt": "^1.1.0",
     "grunt-contrib-jshint": "^2.1.0",
     "grunt-contrib-uglify": "^4.0.1",
-    "jshint": "^2.11.1"
+    "jshint": "^2.11.1",
+    "serve": "^11.3.2"
   }
 }
